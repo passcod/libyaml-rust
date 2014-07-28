@@ -1,6 +1,6 @@
 [package]
 name = "libyaml"
-version = "1.0.0"
+version = "1.0.1"
 authors = [ "김현강 <kimhyunkang@gmail.com>" ]
 build = "make src/yaml/type_size.rs"
 
